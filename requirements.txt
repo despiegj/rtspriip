@@ -32,13 +32,6 @@ itsdangerous==1.1.0
 jedi==0.18.0
 Jinja2==2.11.3
 jsonschema==3.2.0
-jupyter==1.0.0
-jupyter-client==6.1.12
-jupyter-console==6.4.0
-jupyter-core==4.7.1
-jupyter-dash==0.4.0
-jupyterlab-pygments==0.1.2
-jupyterlab-widgets==1.0.0
 MarkupSafe==1.1.1
 mistune==0.8.4
 nbclient==0.5.3
